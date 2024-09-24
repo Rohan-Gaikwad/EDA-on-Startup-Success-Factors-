@@ -1,4 +1,4 @@
-# EDA-on-Startup-Success-Factors-
+# EDA-on-Startup-Success-Factors
 Project Overview
 This project performs Exploratory Data Analysis (EDA) on a dataset of startups to uncover key factors driving startup success. By analyzing various attributes such as funding, industry type, and location, the project aims to provide valuable insights to entrepreneurs, investors, and business strategists.
 
@@ -9,7 +9,7 @@ Clustering: Grouped startups with similar characteristics for deeper insights.
 Visualization: Graphically represented key patterns and trends using Matplotlib and Seaborn.
 Tech Stack
 Languages/Tools: Python
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
 Version Control: Git
 How to Run
 Clone the repository:
